@@ -1,0 +1,18 @@
+# Core libraries
+requests                # For HTTP requests to Ollama
+PyPDF2                  # For reading PDF files
+chromadb                # Vector database for storing/retrieving embeddings
+better_profanity        # Simple profanity checker
+json
+os
+uuid
+nltk.tokenize 
+transformers 
+numpy 
+Tensorflow
+Pytorch
+sentence_transformers
+streamlit
+
+# NOTE: Python 3.9 or 3.10 is recommended to ensure compatibility.
+# Need to install llama3.2 and nomic-embed-text from OLLama
